@@ -84,6 +84,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Browser image-to-Minecraft block blueprints with material lists, PNG plans and Java structure NBT export; no account required.
 - :free: [OpenGameArt](https://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](https://oryxdesignlab.com/) - Cheap high quality royalty free sprites
+- :free: [PixelFx Studio](https://pixelfx.io/) - Free browser previews, palette customization and PNG sprite sheets with animation JSON for Patch's MIT-licensed pixelfx effects; no account required.
 - :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
 - :money_with_wings: [PlainTextures](https://www.plaintextures.com/) - Free high resolution textures, brushes and photos
 - :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
@@ -407,6 +408,7 @@ _Set of game frameworks, engines and platforms_
 - :money_with_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
 - :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 - :money_with_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
+- :money_with_wings: [VfxSmith](https://vfxsmith.com/) - Create and refine animated pixel-art game VFX with AI, edit effect components and export PNG sprite sheets, GIFs or Godot 4 packs. Free effect library; AI generation uses credits.
 - :free: [WishlistForge Steam Description Scorer](https://wishlistforge.com/tools/steam-description) - free in-browser scorer for Steam short descriptions. It checks length, hook, genre clarity, player fantasy and call to action, and suggests a rewrite. No account needed.
 - :money_with_wings: [Ziva.sh](https://ziva.sh/) - AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.
 
